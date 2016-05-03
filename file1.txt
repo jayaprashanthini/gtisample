@@ -2,5 +2,7 @@ this is file1
 modify from local
 using ssh push
 some text
+checking for changes
 changes in the remote repo.
+
 
